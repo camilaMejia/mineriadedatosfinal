@@ -10,5 +10,5 @@ Los dos notebooks que hay en esta carpeta están diseñados para realizar los ca
 
 ## AWS
 
-Esta carpeta contiene...
+Un bloc de notas que tiene todo el flujo del sistema de recomendación que se realizó en este trabajo y un pdf que tiene la descripción de los datos que fueron utilizados.
 
